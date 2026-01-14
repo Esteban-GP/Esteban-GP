@@ -1,38 +1,20 @@
 # Hi there, I'm Esteban Gonzalez Poyet 👋
 
-<p align="center">
-  <img src="https://giphy.com/explore/banner" width="100%">
-</p>
 
 I'm a Web Development student based in Vigo, Spain. I'm passionate about front-end developping and creating aesthethic and user-friendly UIs.
 
 ---
 
 ### 🔭 I’m currently working on:
-* CultureFit
-* Improving my skills in .NET and Jetpack Compose
+* Creating an Stormlight Archive based Risk game
+* Improving my skills in .NET, React
 
 ### 🌱 I’m currently learning:
 * How to create interfaces in Android Studio and transitioning from Springboot to .NET
+* AngularJS
 
 ---
 
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <strong>[List your key skills, e.g., JavaScript, Python, React, Node.js, Docker, AWS, Figma]</strong>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esteban-GP&show_icons=true&theme=radical" alt="EstebanGP's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban-GP&layout=compact&theme=radical" alt="EstebanGP's Top Languages" />
-</p>
-
----
 ## **🛠 My Skills**  
 
 <p align="center">
